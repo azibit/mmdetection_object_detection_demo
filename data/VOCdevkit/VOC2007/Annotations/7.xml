@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>7.jpg</filename>
+	<path>C:\Users\s1026670\Documents\Python Scripts\Project Ideas\4. Deep ML With Annotated Images 1\Object_Dectection\mmdetection_object_detection_demo\data\VOCdevkit\VOC2007\ImageSets\7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>800</width>
+		<height>600</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>279</xmin>
+			<ymin>170</ymin>
+			<xmax>572</xmax>
+			<ymax>536</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>band</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>258</xmin>
+			<ymin>169</ymin>
+			<xmax>362</xmax>
+			<ymax>231</ymax>
+		</bndbox>
+	</object>
+</annotation>
