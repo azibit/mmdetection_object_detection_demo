@@ -1,0 +1,38 @@
+<annotation>
+	<folder>ImageSets</folder>
+	<filename>65.jpg</filename>
+	<path>C:\Users\s1026670\Documents\Python Scripts\Project Ideas\5. Segmentation\mmdetection_object_detection_demo\data\VOC2007\ImageSets\65.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>1600</width>
+		<height>1200</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1178</xmin>
+			<ymin>86</ymin>
+			<xmax>1235</xmax>
+			<ymax>166</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>ear</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>1079</xmin>
+			<ymin>113</ymin>
+			<xmax>1130</xmax>
+			<ymax>175</ymax>
+		</bndbox>
+	</object>
+</annotation>
