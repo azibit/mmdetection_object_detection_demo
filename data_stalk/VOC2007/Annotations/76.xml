@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ImageSets</folder>
+	<folder>JPEGImages</folder>
 	<filename>76.jpg</filename>
-	<path>C:\Users\s1026670\Documents\Python Scripts\Project Ideas\5. Segmentation\mmdetection_object_detection_demo\data\VOC2007\ImageSets\76.jpg</path>
+	<path>C:\Users\s1026670\Documents\Python Scripts\Project Ideas\5. Segmentation\mmdetection_object_detection_demo\data\VOC2007\JPEGImages\76.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -24,7 +24,7 @@
 		</bndbox>
 	</object>
 	<object>
-		<name>w</name>
+		<name>ear</name>
 		<pose>Unspecified</pose>
 		<truncated>1</truncated>
 		<difficult>0</difficult>
