@@ -1,7 +1,7 @@
 <annotation>
-	<folder>ImageSets</folder>
+	<folder>JPEGImages</folder>
 	<filename>0.jpg</filename>
-	<path>C:\Users\s1026670\Documents\Python Scripts\Project Ideas\5. Segmentation\mmdetection_object_detection_demo\data\VOC2007\ImageSets\0.jpg</path>
+	<path>C:\Users\s1026670\Documents\Python Scripts\Project Ideas\4. Deep ML With Annotated Images 1\Object_Dectection\mmdetection_object_detection_demo\data_stalk\VOC2007\JPEGImages\0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -53,9 +53,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>509</xmin>
+			<xmin>510</xmin>
 			<ymin>399</ymin>
-			<xmax>563</xmax>
+			<xmax>564</xmax>
 			<ymax>542</ymax>
 		</bndbox>
 	</object>
